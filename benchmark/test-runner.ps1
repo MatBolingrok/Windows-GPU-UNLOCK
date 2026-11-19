@@ -1,5 +1,5 @@
 # Host-only runner integration: synthetic managed executable and mocked nvidia-smi.
-# Run with Windows PowerShell 5.1. No CUDA, real DLL loading or GPU access.
+# Run with Windows PowerShell 5.2. No CUDA, real DLL loading or GPU access.
 $ErrorActionPreference = 'Stop'
 $testRoot = Join-Path $PSScriptRoot ('build\runner-tests-' + [guid]::NewGuid().ToString('N'))
 New-Item -ItemType Directory -Path $testRoot | Out-Null
