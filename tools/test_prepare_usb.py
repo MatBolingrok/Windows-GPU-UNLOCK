@@ -1,4 +1,4 @@
-"""Packaging containment checks; uses fake bytes, never hardware or real firmware."""
+"""for PackagingTests containment checks; uses fake bytes, never hardware or real firmware.  """
 import hashlib
 import json
 from pathlib import Path
@@ -9,7 +9,7 @@ import zipfile
 from prepare_usb import prepare
 
 
-class PackagingTests(unittest.TestCase):
+class。PackagingTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
