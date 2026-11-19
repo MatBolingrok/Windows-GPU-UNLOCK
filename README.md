@@ -8,7 +8,7 @@ community contributions.
 
 ## Start here
 
-**Want to find out about your PC or help report compatibility? Start with a Windows-only check.** You do not need to attempt an unlock.
+Want to find out about your PC or help report compatibility? Start with a Windows-only check. You do not need to attempt an unlock.
 
 | Your goal | What to do |
 | :--- | :--- |
