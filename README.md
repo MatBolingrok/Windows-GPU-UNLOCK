@@ -2,8 +2,6 @@
 
 **English** | [한국어](README.ko.md)
 
-Contributor tooling: [entry-point inventory and cleanup proposal](docs/ENTRYPOINT-PLAN.en.md).
-
 Experimental UEFI GPU unlock and direct Windows handoff, expanded through
 community contributions.
 
